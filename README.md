@@ -57,6 +57,17 @@ Riyadh recorded the highest median listed price per square meter for both villas
 - Pearson area–asking-price correlations within **different focused plotting subsets** were 0.595 for villas and 0.429 for apartments. These subset-specific figures should not be treated as a controlled like-for-like comparison.
 - Large and very small listed areas and implausible asking prices were observed; these highlight the need for data-quality checks.
 
+
+## Visual Highlights
+
+The following charts summarize the analyzed listing data (illustrative charts recreated from the recorded summary statistics):
+
+![Median villa asking price per square meter](charts/villa_price_per_sqm.svg)
+
+![Median apartment asking price per square meter](charts/apartment_price_per_sqm.svg)
+
+![Median annual apartment asking rent](charts/annual_apartment_rent.svg)
+
 ## Project Files
 The analysis notebook, charts, and processed summary CSV files will be added to this repository. The notebook is the source of the computations; outputs shown above are based on the analysis performed in Google Colab.
 
